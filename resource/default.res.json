@@ -1,0 +1,170 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,grass_jpg,road_jpg,chara_jpg,chara1_png,chara10_png,chara11_png,chara12_png,chara13_png,chara14_png,chara15_png,chara16_png,chara17_png,chara18_png,chara19_png,chara2_png,chara20_png,chara21_png,chara22_png,chara23_png,chara24_png,chara25_png,chara26_png,chara3_png,chara4_png,chara5_png,chara6_png,chara7_png,chara8_png,chara9_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/grass.jpg",
+			"type": "image",
+			"name": "grass_jpg"
+		},
+		{
+			"url": "assets/road.jpg",
+			"type": "image",
+			"name": "road_jpg"
+		},
+		{
+			"name": "chara_jpg",
+			"type": "image",
+			"url": "assets/chara.jpg"
+		},
+		{
+			"name": "chara1_png",
+			"type": "image",
+			"url": "assets/chara/chara1.png"
+		},
+		{
+			"name": "chara10_png",
+			"type": "image",
+			"url": "assets/chara/chara10.png"
+		},
+		{
+			"name": "chara11_png",
+			"type": "image",
+			"url": "assets/chara/chara11.png"
+		},
+		{
+			"name": "chara12_png",
+			"type": "image",
+			"url": "assets/chara/chara12.png"
+		},
+		{
+			"name": "chara13_png",
+			"type": "image",
+			"url": "assets/chara/chara13.png"
+		},
+		{
+			"name": "chara14_png",
+			"type": "image",
+			"url": "assets/chara/chara14.png"
+		},
+		{
+			"name": "chara15_png",
+			"type": "image",
+			"url": "assets/chara/chara15.png"
+		},
+		{
+			"name": "chara16_png",
+			"type": "image",
+			"url": "assets/chara/chara16.png"
+		},
+		{
+			"name": "chara17_png",
+			"type": "image",
+			"url": "assets/chara/chara17.png"
+		},
+		{
+			"name": "chara18_png",
+			"type": "image",
+			"url": "assets/chara/chara18.png"
+		},
+		{
+			"name": "chara19_png",
+			"type": "image",
+			"url": "assets/chara/chara19.png"
+		},
+		{
+			"name": "chara2_png",
+			"type": "image",
+			"url": "assets/chara/chara2.png"
+		},
+		{
+			"name": "chara20_png",
+			"type": "image",
+			"url": "assets/chara/chara20.png"
+		},
+		{
+			"name": "chara21_png",
+			"type": "image",
+			"url": "assets/chara/chara21.png"
+		},
+		{
+			"name": "chara22_png",
+			"type": "image",
+			"url": "assets/chara/chara22.png"
+		},
+		{
+			"name": "chara23_png",
+			"type": "image",
+			"url": "assets/chara/chara23.png"
+		},
+		{
+			"name": "chara24_png",
+			"type": "image",
+			"url": "assets/chara/chara24.png"
+		},
+		{
+			"name": "chara25_png",
+			"type": "image",
+			"url": "assets/chara/chara25.png"
+		},
+		{
+			"name": "chara26_png",
+			"type": "image",
+			"url": "assets/chara/chara26.png"
+		},
+		{
+			"name": "chara3_png",
+			"type": "image",
+			"url": "assets/chara/chara3.png"
+		},
+		{
+			"name": "chara4_png",
+			"type": "image",
+			"url": "assets/chara/chara4.png"
+		},
+		{
+			"name": "chara5_png",
+			"type": "image",
+			"url": "assets/chara/chara5.png"
+		},
+		{
+			"name": "chara6_png",
+			"type": "image",
+			"url": "assets/chara/chara6.png"
+		},
+		{
+			"name": "chara7_png",
+			"type": "image",
+			"url": "assets/chara/chara7.png"
+		},
+		{
+			"name": "chara8_png",
+			"type": "image",
+			"url": "assets/chara/chara8.png"
+		},
+		{
+			"name": "chara9_png",
+			"type": "image",
+			"url": "assets/chara/chara9.png"
+		}
+	]
+}
